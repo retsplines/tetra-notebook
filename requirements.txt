@@ -1,0 +1,6 @@
+matplotlib
+numpy
+scikit-commpy==0.8.0
+import-ipynb
+bitarray
+scipy
